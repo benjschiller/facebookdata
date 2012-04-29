@@ -1,4 +1,4 @@
 facebookdata
 ============
 
-Python module for parsing exported facebook data
+python3 module for parsing exported facebook data
